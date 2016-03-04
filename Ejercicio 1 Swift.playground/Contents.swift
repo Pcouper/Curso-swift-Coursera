@@ -8,7 +8,7 @@ var text2:String
 var text3:String
 var text4:String
 
-for num in 1...100 {
+for num in 0...100 {
     if num%5 == 0 {
         text1 = "#Bingo!!!"
     } else {
